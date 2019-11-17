@@ -8,8 +8,5 @@
 </head>
 <body>
     <h1>PPH测试</h1>
-    <?php
-    echo "Hello World!";
-    ?>
 </body>
 </html>
